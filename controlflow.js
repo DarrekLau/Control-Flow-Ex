@@ -92,4 +92,3 @@ function checking(janFirstDayNumber, yearDayNumber, hourNumber){
 
 checking(0,0,20);
 
-checking(16,10);
